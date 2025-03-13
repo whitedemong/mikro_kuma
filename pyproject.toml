@@ -1,0 +1,10 @@
+[project]
+name = "mikro_kuma"
+version = "0.1.0"
+description = "Mikro service for universal distributed service connectivity"
+authors = [{ name = "whitedemon", email = "whitedemonreg@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.11.13",
+]
